@@ -1,0 +1,22 @@
+{
+  "name": "yl",
+  "version": "1.0.0",
+  "description": "ssss",
+  "main": "fff",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fas"
+  },
+  "keywords": [
+    "yangliang"
+  ],
+  "author": "yangliang",
+  "license": "UNLICENSED"
+}
